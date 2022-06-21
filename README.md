@@ -26,3 +26,5 @@ module05 - Data Science
       └─ workshop12  
 
 Model examples can be found under the respective workshop branch.
+
+## Please ensure you create a fork of the repository into your own GitHub account while working on the assignment
